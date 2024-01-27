@@ -1,9 +1,8 @@
-[![MasterHead](![image](https://github.com/Rishbhish1/Rishbhish1/assets/86402526/583f7bec-5ab1-4065-8160-3ba72f16c18b))]([https://rishavchanda.io](https://www.linkedin.com/in/rishsehgal/))
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/rishsehgal/)
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">A passionate frontend developer from India studying in University of British Columbia under the major of Bachelor of Applied Science</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/32/42/cd/3242cd86b9986b537732ad0244f8e042.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishbhish1&label=Profile%20views&color=0e75b6&style=flat" alt="rishbhish1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishbhish1" alt="rishbhish1" /></a> </p>
 
