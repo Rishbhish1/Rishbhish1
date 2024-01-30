@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishbhish1" alt="rishbhish1" /></a> </p>
 
-- 🌱 I’m currently learning **Git , HTML5 and CSS3**
+- 🌱 I’m currently learning **Git , HTML5 and CSS3 also im trying to do some LeetCode**
 
 - 📫 How to reach me **rishabhsehgal504@gmail.com**
 
